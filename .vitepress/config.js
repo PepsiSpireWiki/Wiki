@@ -111,6 +111,10 @@ export default defineConfig({
             }
         ],
 
+        head: [
+            ['meta', { name: "og:image", content: "/assets/spire_large.png"}]
+        ],
+
         editLink: {
             pattern: 'https://github.com/pepsispirewiki/wiki/edit/main/:path',
             text: 'Improve this page'

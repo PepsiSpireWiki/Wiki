@@ -6,7 +6,7 @@ hero:
   name: Pepsi Spire
   text: The mixture-focused soda fountain by PepsiCo.
   image:
-    src: /spire.png
+    src: /assets/spire.png
     alt: Pepsi Spire Machine
   actions:
     - theme: brand
