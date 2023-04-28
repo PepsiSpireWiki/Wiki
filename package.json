@@ -1,6 +1,6 @@
 {
   "name": "pepsi-spire-wiki",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A wiki about the mixture-focused soda fountain by PepsiCo.",
   "main": "index.js",
   "scripts": {

@@ -112,7 +112,7 @@ export default defineConfig({
         ],
 
         head: [
-            ['meta', { name: "og:image", content: "/public/spire_large.png"}]
+            ['meta', { name: "og:image", content: "/spire_large.png"}]
         ],
 
         editLink: {
