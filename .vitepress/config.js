@@ -14,6 +14,7 @@ export default defineConfig({
 
     head: [
         [ 'meta', { name: 'theme-color', content: '#2e7ec9' } ],
+        [ 'meta', { name: "og:image", content: "/spire_large.png"} ]
     ],
 
     themeConfig: {
@@ -109,10 +110,6 @@ export default defineConfig({
                 icon: 'discord',
                 link: 'https://discord.gg/dew'
             }
-        ],
-
-        head: [
-            ['meta', { name: "og:image", content: "/spire_large.png"}]
         ],
 
         editLink: {
