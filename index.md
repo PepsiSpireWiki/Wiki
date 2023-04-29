@@ -14,7 +14,7 @@ hero:
       link: /info/general
     - theme: alt
       text: Where can I find one?
-      link: /info/locator
+      link: /info/where-to-find
 
 features:
   - title: Spire Models
