@@ -39,5 +39,6 @@ Listed below are the most common locations to find a Pepsi Spire machine, separa
 | Store/Store Type     | Spire Model        | Chance of finding |
 | -------------------- | ------------------ | ----------------- |
 | Subway (England)     | 1.1                | ⭐⭐⭐⭐⭐          |
-| Subway (Switzerland) | 1.1                |                   |
+| Subway (Switzerland) | 1.1                | Unknown           |
+| Subway (Romania)     | 1.1                | Unknown           |
 :::

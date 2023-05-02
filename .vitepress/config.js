@@ -14,7 +14,7 @@ export default defineConfig({
 
     head: [
         [ 'meta', { name: 'theme-color', content: '#2e7ec9' } ],
-        [ 'meta', { name: "og:image", content: "/spire_large.png"} ]
+        [ 'meta', { name: "og:image", content: "/spire_small.png"} ]
     ],
 
     themeConfig: {
@@ -72,7 +72,8 @@ export default defineConfig({
                         { text: '3.0', link: '/models/3.0' },
                         { text: '4.1', link: '/models/4.1' },
                         { text: '4.2', link: '/models/4.2' },
-                        { text: '5.0', link: '/models/5.0' }
+                        { text: '5.0', link: '/models/5.0' },
+                        { text: '6.0', link: '/models/6.0' }
                     ]
                 }
             ],
