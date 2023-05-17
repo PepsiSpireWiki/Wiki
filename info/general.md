@@ -74,6 +74,7 @@ Listed below, are the drink selections separated by region.
 - MTN Dew
 - Mug Root Beer
 - Schweppes Ginger Ale
+- Lime bubly
 :::
 ::: details Europe
 - Pepsi
