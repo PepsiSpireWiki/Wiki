@@ -35,7 +35,6 @@ export default defineConfig({
                     { text: '2.0', link: '/models/2.0' },
                     { text: '3.0', link: '/models/3.0' },
                     { text: '4.1', link: '/models/4.1' },
-                    { text: '4.2', link: '/models/4.2' },
                     { text: '5.0', link: '/models/5.0' }
                 ]
             },
@@ -44,6 +43,7 @@ export default defineConfig({
                 items: [
                     { text: 'User', link: '/menus/user' },
                     { text: 'Manager', link: '/menus/manager' },
+                    { text: 'Service', link: '/menus/service' },
                     { text: 'Other', link: '/menus/other' }
                 ]
             },
@@ -71,7 +71,6 @@ export default defineConfig({
                         { text: '2.0', link: '/models/2.0' },
                         { text: '3.0', link: '/models/3.0' },
                         { text: '4.1', link: '/models/4.1' },
-                        { text: '4.2', link: '/models/4.2' },
                         { text: '5.0', link: '/models/5.0' },
                         { text: '6.0', link: '/models/6.0' }
                     ]
@@ -83,6 +82,7 @@ export default defineConfig({
                     items: [
                         { text: 'User', link: '/menus/user' },
                         { text: 'Manager', link: '/menus/manager' },
+                        { text: 'Service', link: '/menus/service' },
                         { text: 'Other', link: '/menus/other' }
                     ]
                 }
@@ -110,6 +110,10 @@ export default defineConfig({
             {
                 icon: 'discord',
                 link: 'https://discord.gg/dew'
+            },
+            {
+                icon: 'github',
+                link: 'https://github.com/pepsispirewiki'
             }
         ],
 
