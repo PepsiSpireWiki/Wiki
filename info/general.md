@@ -61,6 +61,7 @@ Listed below, are the drink selections separated by region.
 ::: details Canada
 - Pepsi
 - Pepsi Real Sugar
+- Pepsi Cherry Real Sugar
 - Diet Pepsi
 - 7up
 - Brisk Lemon Iced Tea

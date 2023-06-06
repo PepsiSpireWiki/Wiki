@@ -18,27 +18,34 @@ Listed below are the most common locations to find a Pepsi Spire machine, separa
 :::
 
 ::: details United States
-| Store/Store Type   | Spire Model        | Chance of finding |
-| ------------------ | ------------------ | ---------------   |
-| Gas Station        | 3.0, 4.1, 4.2      | ⭐⭐★★★            |
-| Smaller restaurant | 3.0, 4.1, 4.2      | ⭐⭐⭐★★           |
-| Larger restaurant  | 3.0, 4.1, 4.2, 5.0 | ⭐★★★★            |
-| Dining Hall        | 3.0, 4.1, 4.2, 5.0 | ⭐⭐★★★            |
-| Movie Theatres     | 5.0                | ⭐⭐★★★            |
+| Store/Store Type   | Spire Model           | Chance of finding |
+| ------------------ | ------------------ | ---------------  |
+| Gas Station            | 3.0, 4.1, 4.2             | ⭐⭐★★★ |
+| Smaller restaurant | 3.0, 4.1, 4.2            | ⭐⭐⭐★★ |
+| Larger restaurant  | 3.0, 4.1, 4.2, 5.0.     | ⭐★★★★ |
+| Dining Hall              | 3.0, 4.1, 4.2, 5.0.    | ⭐⭐★★★ |
+| Movie Theaters     | 5.0                           | ⭐⭐★★★ |
 :::
 
 ::: details Canada
-| Store/Store Type   | Spire Model        | Chance of finding |
+| Store/Store Type   | Spire Model           | Chance of finding |
 | ------------------ | ------------------ | ----------------- |
-| Subway             | 3.0                | ⭐⭐⭐⭐⭐          |
-| Smaller restaurant | 2.0, 3.0           | ⭐★★★★             |
-| Larger restaurant  | 2.0, 3.0           | ⭐★★★★             |
+| Subway                   | 3.0                          | ⭐⭐⭐⭐⭐ |
+| Circle K                   | 3.0                          | ⭐★★★★ |
+| Smaller restaurant | 2.0, 3.0, 5.0           | ⭐★★★★ |
+| Larger restaurant  | 2.0, 3.0, 5.0            | ⭐★★★★ |
 :::
 
 ::: details Europe
-| Store/Store Type     | Spire Model        | Chance of finding |
-| -------------------- | ------------------ | ----------------- |
-| Subway (England)     | 1.1                | ⭐⭐⭐⭐⭐          |
-| Subway (Switzerland) | 1.1                | Unknown           |
-| Subway (Romania)     | 1.1                | Unknown           |
+| Store/Store Type         | Spire Model        | Chance of finding |
+| ---------------------  | ---------------- | ----------------- |
+| Subway (England)       | 1.1                         | ⭐⭐⭐⭐⭐ |
+| Subway (Switzerland) | 1.1                         | Unknown |
+| Subway (Romania)      | 1.1                         | Unknown |
+:::
+
+::: details Japan
+| Store/Store Type               | Spire Model            | Chance of finding |
+| ------------------------- | ------------------ | ----------------- |
+| Karaoke Room Utahiroba | 1.1                            | N/A (Limited Time in 2018) |
 :::
