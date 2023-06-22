@@ -87,14 +87,14 @@ export default defineConfig({
                     ]
                 }
             ],
-            '/assets': [
+            '/resources': [
                 {
-                    text: 'Assets',
+                    text: 'Resources',
                     items: [
-                        { text: 'Social Media Assets', link: '/assets/social-media' },
-                        { text: 'Promotional Assets', link: '/assets/promotional' },
-                        { text: 'Development Assets', link: '/assets/development' },
-                        { text: 'Internal Assets', link: '/assets/internal' }
+                        { text: 'Social Media Resources', link: '/resources/social-media' },
+                        { text: 'Promotional Resources', link: '/resources/promotional' },
+                        { text: 'Development Resources', link: '/resources/development' },
+                        { text: 'Internal Resources', link: '/resources/internal' }
                     ]
                 }
             ]
