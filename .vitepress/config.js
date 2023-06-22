@@ -47,7 +47,7 @@ export default defineConfig({
                     { text: 'Other', link: '/menus/other' }
                 ]
             },
-            { text: 'Assets', link: '/assets' }
+            { text: 'Assets', link: 'https://github.com/PepsiSpireWiki/Assets' }
         ],
 
         sidebar: {
