@@ -108,10 +108,6 @@ export default defineConfig({
                 link: 'https://reddit.com/r/pepsispire'
             },
             {
-                icon: 'discord',
-                link: 'https://discord.gg/dew'
-            },
-            {
                 icon: 'github',
                 link: 'https://github.com/pepsispirewiki'
             }
