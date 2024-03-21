@@ -1,17 +1,12 @@
 :root {
     /* Brand colours */
-    --vp-c-brand: #2e7ec9;
-    --vp-c-brand-light: #438bce;
-    --vp-c-brand-lighter: #5898d4;
-    --vp-c-brand-dark: #2e7ec9;
-    --vp-c-brand-darker: #2e7ec9;
+    --vp-c-brand-1: #2e7ec9;
+    --vp-c-brand-2: #2e7ec9;
+    --vp-c-brand-3: #2e7ec9;
+    /* --vp-c-brand-light: #438bce;
+    --vp-c-brand-lighter: #5898d4; */
 
     /* Homepage hero gradient */
     --vp-home-hero-name-color: transparent;
-    --vp-home-hero-name-background: -webkit-linear-gradient(
-        120deg,
-        #5898d4,
-        #438bce,
-        #2e7ec9
-    )
+    --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #5898d4, #438bce, #2e7ec9)
 }
