@@ -70,7 +70,7 @@ export default defineConfig(
                             { text: 'Where to find', link: '/info/where-to-find' },
                             { text: 'Timeline', link: '/info/timeline' },
                             { text: 'Official site (Archive)', link: '/info/archive' }
-                    ]
+                        ]
                     }
                 ],
                 '/models': [
