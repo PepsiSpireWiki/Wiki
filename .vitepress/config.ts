@@ -22,7 +22,7 @@ export default defineConfig(
         cacheDir: '.vitepress/cache',
 
         head: [
-            [ 'meta', { name: 'theme-color', content: '#2e7ec9' } ],
+            [ 'meta', { name: 'theme-color', content: '#2e7ec9' } ], // todo: potentially add site-name meta tag, to display wiki name on pages such as models
             [ 'meta', { name: "og:image", content: "/spire_small.png"} ],
 
             ['link', { rel: "icon", type: "image/svg", href: "/favicon.svg"}]
@@ -35,18 +35,22 @@ export default defineConfig(
                     text: 'Information',
                     items: [
                         { text: 'General Info', link: '/info/general' },
-                        { text: 'Where to find', link: '/info/where-to-find' }
+                        { text: 'Where to find', link: '/info/where-to-find' },
+                        { text: 'Timeline', link: '/info/timeline' },
+                        { text: 'Official site (Archive)', link: '/info/archive' }
                     ]
                 },
                 {
                     text: 'Models',
                     items: [
                         { text: 'Model List', link: '/models' },
-                        { text: '1.1', link: '/models/1.1' },
-                        { text: '2.0', link: '/models/2.0' },
-                        { text: '3.0', link: '/models/3.0' },
-                        { text: '4.1', link: '/models/4.1' },
-                        { text: '5.0', link: '/models/5.0' }
+                        { text: 'Pre-release', link: '/models/pre-release' },
+                        { text: '1.1', link: '/models/version-1' },
+                        { text: '2.0', link: '/models/version-2' },
+                        { text: '3.0', link: '/models/version-3' },
+                        { text: '4.1/4.2', link: '/models/version-4' },
+                        { text: '5.0', link: '/models/version-5' },
+                        { text: '6.0', link: '/models/version-6' }
                     ]
                 },
                 {
@@ -75,15 +79,16 @@ export default defineConfig(
                 ],
                 '/models': [
                     {
-                        text: 'Models',
+                        text: 'Spire Models',
                         items: [
                             { text: 'Model List', link: '/models' },
-                            { text: '1.1', link: '/models/1.1' },
-                            { text: '2.0', link: '/models/2.0' },
-                            { text: '3.0', link: '/models/3.0' },
-                            { text: '4.1', link: '/models/4.1' },
-                            { text: '5.0', link: '/models/5.0' },
-                            { text: '6.0', link: '/models/6.0' }
+                            { text: 'Pre-release', link: '/models/pre-release' },
+                            { text: '1.1', link: '/models/version-1' },
+                            { text: '2.0', link: '/models/version-2' },
+                            { text: '3.0', link: '/models/version-3' },
+                            { text: '4.1/4.2', link: '/models/version-4' },
+                            { text: '5.0', link: '/models/version-5' },
+                            { text: '6.0', link: '/models/version-6' }
                         ]
                     }
                 ],

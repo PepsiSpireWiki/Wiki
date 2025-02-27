@@ -96,7 +96,9 @@ Listed below, are the drink selections separated by region.
 
 
 ## What flavour combinations does it offer?
-You can add up to **three** flavor shots to the drink of your choice, to create over 1000 beverage combinations.
+You can add **up to three** flavor shots to the drink of your choice, to create over **1000** beverage combinations.
+
+While originally produced in multiple countries, the flavour shots are now only available on Pepsi Spire machines within the United States.
 > Note: Flavors and brands vary by location.
 
 ### Flavour Shots
@@ -110,6 +112,6 @@ You can add up to **three** flavor shots to the drink of your choice, to create 
 >- Peach
 
 ## Random facts
-- Nearly every released Pepsi Spire model has won a design award.
+- The majority of Pepsi Spire models have won a variety of design awards.
 - Pepsi partnered with comedian [Jay Pharoah](https://en.wikipedia.org/wiki/Jay_Pharoah) in 2016 to promote Pepsi Spire.
 - Subway Canada partnered with PepsiCo Canada in 2015 to install Pepsi Spire machines in almost all 3,200 locations by spring 2016.
